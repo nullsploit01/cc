@@ -1,6 +1,6 @@
 # Coding Challenges Series
 
-Welcome to my repository series where I take on various coding challenges from [CodingChallenges.fyi](https://codingchallenges.fyi/). Each project is a custom implementation based on the requirements of a specific challenge. The goal is to sharpen my problem-solving skills and create efficient, functional tools.
+This repository series contains solutions to various coding challenges from [CodingChallenges.fyi](https://codingchallenges.fyi/). Each project is a custom implementation based on the requirements of a specific challenge, designed to address specific problems and create efficient, functional tools.
 
 ## Table of Contents
 
