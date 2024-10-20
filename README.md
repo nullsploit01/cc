@@ -22,3 +22,10 @@ This repository series contains solutions to various coding challenges from [Cod
 - **Challenge**: [JSON Parser Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-json)
 - **Description**:  
   This project is a custom JSON parser designed to validate JSON files for syntax and structural correctness. The parser also runs predefined tests on JSON datasets to ensure that the files conform​⬤
+
+### 3. Compression Tool (cccmp)
+
+- **Repository**: [https://github.com/nullsploit01/cc-compressor](https://github.com/nullsploit01/cccmp)
+- **Challenge**: [Huffman Compression Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-huffman/)
+- **Description**:  
+  This project is a custom implementation of a file compression and decompression tool based on Huffman coding. It supports both compression and decompression via command-line arguments. The tool is efficient for files up to 100MB in size.
