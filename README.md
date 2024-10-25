@@ -8,6 +8,7 @@ This repository series contains solutions to various coding challenges from [Cod
 2. [JSON Parser](#2-json-parser)
 3. [Compression Tool (cccmp)](#3-compression-tool-cccmp)
 4. [Load Balancer (cc-load-balancer)](#4-load-balancer-cc-load-balancer)
+5. [Command-Line Sorting Utility (cc-sort)](#5-command-line-sorting-utility-cc-sort)
 
 ## Challenges
 
@@ -38,3 +39,10 @@ This repository series contains solutions to various coding challenges from [Cod
 - **Challenge**: [Load Balancer Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-load-balancer)
 - **Description**:  
   This project is a custom implementation of a load balancer that efficiently distributes incoming network traffic across a number of backend servers. It checks the health of backend servers, balances the load based on their real-time status, and ensures high availability and reliability of the hosted applications. The implementation leverages Docker for easy deployment of multiple server instances and includes a command-line interface for managing configurations.
+
+### 5. Command-Line Sorting Utility (cc-sort)
+
+- **Repository**: [https://github.com/nullsploit01/cc-sort](https://github.com/nullsploit01/cc-sort)
+- **Challenge**: [Sorting Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-sort)
+- **Description**:  
+  CC-Sort is a versatile command-line sorting utility that supports a variety of algorithms including Radix, Merge, Quick, Heap, and Random. Designed to handle both unique and non-unique sorting tasks, it provides options to sort data from files in a customizable manner, supporting large datasets efficiently. The tool's flexibility makes it suitable for a range of applications from educational purposes to practical data processing tasks.
