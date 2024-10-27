@@ -9,6 +9,7 @@ This repository series contains solutions to various coding challenges from [Cod
 3. [Compression Tool (cccmp)](#3-compression-tool-cccmp)
 4. [Load Balancer (cc-load-balancer)](#4-load-balancer-cc-load-balancer)
 5. [Command-Line Sorting Utility (cc-sort)](#5-command-line-sorting-utility-cc-sort)
+6. [Command-Line Calculator (cccalc)](#6-command-line-calculator-cccalc)
 
 ## Challenges
 
@@ -46,3 +47,10 @@ This repository series contains solutions to various coding challenges from [Cod
 - **Challenge**: [Sorting Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-sort)
 - **Description**:  
   CC-Sort is a versatile command-line sorting utility that supports a variety of algorithms including Radix, Merge, Quick, Heap, and Random. Designed to handle both unique and non-unique sorting tasks, it provides options to sort data from files in a customizable manner, supporting large datasets efficiently. The tool's flexibility makes it suitable for a range of applications from educational purposes to practical data processing tasks.
+
+### 6. Command-Line Calculator (cccalc)
+
+- **Repository**: [https://github.com/nullsploit01/cc-calculator](https://github.com/nullsploit01/cc-calculator)
+- **Challenge**: [Calculator Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-calculator)
+- **Description**:  
+  CCCalc is a command-line calculator that parses and evaluates complex arithmetic expressions accurately. Designed to process expressions involving basic operations like addition, subtraction, multiplication, and division, it handles nested operations and maintains correct order of operations. This tool is ideal for users who need a reliable and quick way to perform calculations through a CLI.
