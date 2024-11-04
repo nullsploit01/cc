@@ -10,6 +10,7 @@ This repository series contains solutions to various coding challenges from [Cod
 4. [Load Balancer (cc-load-balancer)](#4-load-balancer-cc-load-balancer)
 5. [Command-Line Sorting Utility (cc-sort)](#5-command-line-sorting-utility-cc-sort)
 6. [Command-Line Calculator (cccalc)](#6-command-line-calculator-cccalc)
+7. [Custom Redis Server CLI (cc-redis)](#7-custom-redis-server-cli-cc-redis)
 
 ## Challenges
 
@@ -54,3 +55,10 @@ This repository series contains solutions to various coding challenges from [Cod
 - **Challenge**: [Calculator Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-calculator)
 - **Description**:  
   CCCalc is a command-line calculator that parses and evaluates complex arithmetic expressions accurately. Designed to process expressions involving basic operations like addition, subtraction, multiplication, and division, it handles nested operations and maintains correct order of operations. This tool is ideal for users who need a reliable and quick way to perform calculations through a CLI.
+
+### 7. Custom Redis Server CLI (cc-redis)
+
+- **Repository**: [https://github.com/nullsploit01/cc-redis](https://github.com/nullsploit01/cc-redis)
+- **Challenge**: [Redis Server Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-redis/)
+- **Description**:  
+  CC-Redis is a custom CLI tool designed for managing and interacting with a Redis server. It supports an interactive mode similar to `redis-cli` and provides core commands like `SET`, `GET`, `DEL`, `PING`, and `ECHO`. The server communicates using the RESP protocol, ensuring compatibility with standard Redis clients, and supports custom configurations for port and host settings. CC-Redis is optimized for high throughput, achieving over 200,000 requests per second in benchmark tests for `SET` and `GET` commands.
