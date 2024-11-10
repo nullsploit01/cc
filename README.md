@@ -11,6 +11,7 @@ This repository series contains solutions to various coding challenges from [Cod
 5. [Command-Line Sorting Utility (cc-sort)](#5-command-line-sorting-utility-cc-sort)
 6. [Command-Line Calculator (cccalc)](#6-command-line-calculator-cccalc)
 7. [Custom Redis Server CLI (cc-redis)](#7-custom-redis-server-cli-cc-redis)
+8. [Command-Line Grep Utility (cc-grep)](#8-command-line-grep-utility-cc-grep)
 
 ## Challenges
 
@@ -62,3 +63,10 @@ This repository series contains solutions to various coding challenges from [Cod
 - **Challenge**: [Redis Server Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-redis/)
 - **Description**:  
   CC-Redis is a custom CLI tool designed for managing and interacting with a Redis server. It supports an interactive mode similar to `redis-cli` and provides core commands like `SET`, `GET`, `DEL`, `PING`, and `ECHO`. The server communicates using the RESP protocol, ensuring compatibility with standard Redis clients, and supports custom configurations for port and host settings. CC-Redis is optimized for high throughput, achieving over 200,000 requests per second in benchmark tests for `SET` and `GET` commands.
+
+### 8. Command-Line Grep Utility (cc-grep)
+
+- **Repository**: [https://github.com/nullsploit01/cc-grep](https://github.com/nullsploit01/cc-grep)
+- **Challenge**: [Grep Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-grep)
+- **Description**:  
+  CC-Grep is a command-line utility designed to search for patterns in files, similar to the classic `grep` command. This tool includes options for case-insensitive search, recursive directory traversal, and inverted match to display lines that do not contain the specified pattern. It supports powerful and flexible search capabilities, making it ideal for command-line users needing efficient text searching across files and directories.
