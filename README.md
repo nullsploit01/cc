@@ -12,6 +12,7 @@ This repository series contains solutions to various coding challenges from [Cod
 6. [Command-Line Calculator (cccalc)](#6-command-line-calculator-cccalc)
 7. [Custom Redis Server CLI (cc-redis)](#7-custom-redis-server-cli-cc-redis)
 8. [Command-Line Grep Utility (cc-grep)](#8-command-line-grep-utility-cc-grep)
+9. [Command-Line Unique Line Processor (ccuniq)](#9-command-line-unique-line-processor-ccuniq)
 
 ## Challenges
 
@@ -70,3 +71,10 @@ This repository series contains solutions to various coding challenges from [Cod
 - **Challenge**: [Grep Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-grep)
 - **Description**:  
   CC-Grep is a command-line utility designed to search for patterns in files, similar to the classic `grep` command. This tool includes options for case-insensitive search, recursive directory traversal, and inverted match to display lines that do not contain the specified pattern. It supports powerful and flexible search capabilities, making it ideal for command-line users needing efficient text searching across files and directories.
+
+### 9. Command-Line Unique Line Processor (ccuniq)
+
+- **Repository**: [https://github.com/nullsploit01/cc-uniq](https://github.com/nullsploit01/cc-uniq)
+- **Challenge**: [Uniq Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-uniq)
+- **Description**:  
+  CC-Uniq is a command-line tool that mirrors the functionality of the Unix `uniq` command with extended features. It efficiently processes input to filter or count unique and duplicate lines. This utility supports various options such as displaying only unique or repeated lines, counting occurrences, and writing output to both standard output and specific files. CC-Uniq is versatile for data analysis, preprocessing, and filtering tasks, making it an essential tool for developers and data scientists alike.
