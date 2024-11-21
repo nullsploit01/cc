@@ -13,6 +13,7 @@ This repository series contains solutions to various coding challenges from [Cod
 7. [Custom Redis Server CLI (cc-redis)](#7-custom-redis-server-cli-cc-redis)
 8. [Command-Line Grep Utility (cc-grep)](#8-command-line-grep-utility-cc-grep)
 9. [Command-Line Unique Line Processor (ccuniq)](#9-command-line-unique-line-processor-ccuniq)
+10. [Command-Line Web Server (ccws)](#10-command-line-web-server-ccws)
 
 ## Challenges
 
@@ -78,3 +79,10 @@ This repository series contains solutions to various coding challenges from [Cod
 - **Challenge**: [Uniq Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-uniq)
 - **Description**:  
   CC-Uniq is a command-line tool that mirrors the functionality of the Unix `uniq` command with extended features. It efficiently processes input to filter or count unique and duplicate lines. This utility supports various options such as displaying only unique or repeated lines, counting occurrences, and writing output to both standard output and specific files. CC-Uniq is versatile for data analysis, preprocessing, and filtering tasks, making it an essential tool for developers and data scientists alike.
+
+### 10. Command-Line Web Server (ccws)
+
+- **Repository**: [https://github.com/nullsploit01/cc-web-server](https://github.com/nullsploit01/cc-web-server)
+- **Challenge**: [Web Server Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-webserver/)
+- **Description**:  
+  CCWS is a lightweight and secure command-line web server built with Go. This project demonstrates HTTP request handling and static file serving. It includes protections against directory traversal attacks and configurable port options, making it a practical tool for learning and small-scale web hosting needs.
