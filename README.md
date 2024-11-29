@@ -14,6 +14,7 @@ This repository series contains solutions to various coding challenges from [Cod
 8. [Command-Line Grep Utility (cc-grep)](#8-command-line-grep-utility-cc-grep)
 9. [Command-Line Unique Line Processor (ccuniq)](#9-command-line-unique-line-processor-ccuniq)
 10. [Command-Line Web Server (ccws)](#10-command-line-web-server-ccws)
+11. [Diff Tool (cc-diff)](#11-diff-tool-cc-diff)
 
 ## Challenges
 
@@ -86,3 +87,11 @@ This repository series contains solutions to various coding challenges from [Cod
 - **Challenge**: [Web Server Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-webserver/)
 - **Description**:  
   CCWS is a lightweight and secure command-line web server built with Go. This project demonstrates HTTP request handling and static file serving. It includes protections against directory traversal attacks and configurable port options, making it a practical tool for learning and small-scale web hosting needs.
+
+### 11. Diff Tool (cc-diff)
+
+- **Repository**: [https://github.com/nullsploit01/cc-diff](https://github.com/nullsploit01/cc-diff)
+- **Challenge**: [Diff Tool Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-diff/)
+- **Description**:  
+  A command-line tool for comparing files line by line and highlighting differences. It outputs added, removed, and unchanged lines in a clear and readable format, making it ideal for tracking changes in text files or source code.
+  
