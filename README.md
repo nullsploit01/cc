@@ -15,6 +15,7 @@ This repository series contains solutions to various coding challenges from [Cod
 9. [Command-Line Unique Line Processor (ccuniq)](#9-command-line-unique-line-processor-ccuniq)
 10. [Command-Line Web Server (ccws)](#10-command-line-web-server-ccws)
 11. [Diff Tool (cc-diff)](#11-diff-tool-cc-diff)
+12. [Custom Command-Line Shell (cc-shell)](#12-custom-command-line-shell-cc-shell)
 
 ## Challenges
 
@@ -95,3 +96,9 @@ This repository series contains solutions to various coding challenges from [Cod
 - **Description**:  
   A command-line tool for comparing files line by line and highlighting differences. It outputs added, removed, and unchanged lines in a clear and readable format, making it ideal for tracking changes in text files or source code.
   
+### 12. Custom Command-Line Shell (cc-shell)
+
+- **Repository**: [https://github.com/nullsploit01/cc-shell](https://github.com/nullsploit01/cc-shell)
+- **Challenge**: [Shell Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-shell)
+- **Description**:  
+  CC-Shell is a custom implementation of a minimal command-line shell built in Go. It supports executing system commands, managing directory navigation, and maintaining a persistent command history. The shell provides essential functionalities while being lightweight and efficient.
