@@ -16,6 +16,7 @@ This repository series contains solutions to various coding challenges from [Cod
 10. [Command-Line Web Server (ccws)](#10-command-line-web-server-ccws)
 11. [Diff Tool (cc-diff)](#11-diff-tool-cc-diff)
 12. [Custom Command-Line Shell (cc-shell)](#12-custom-command-line-shell-cc-shell)
+13. [Custom Memcached Server (cc-memcached)](#13-custom-memcached-server-cc-memcached)
 
 ## Challenges
 
@@ -102,3 +103,10 @@ This repository series contains solutions to various coding challenges from [Cod
 - **Challenge**: [Shell Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-shell)
 - **Description**:  
   CC-Shell is a custom implementation of a minimal command-line shell built in Go. It supports executing system commands, managing directory navigation, and maintaining a persistent command history. The shell provides essential functionalities while being lightweight and efficient.
+
+### 13. Custom Memcached Server (cc-memcached)
+
+- **Repository**: [https://github.com/nullsploit01/cc-memcached](https://github.com/nullsploit01/cc-memcached)
+- **Challenge**: [Memcached Challenge on CodingChallenges.fyi](https://codingchallenges.fyi/challenges/challenge-memcached)
+- **Description**:  
+  CC-Memcached is a custom implementation of a lightweight Memcached-compatible server. It supports basic cache operations including `SET`, `GET`, `ADD`, `REPLACE`, `APPEND`, and `PREPEND`. The server efficiently handles multiple concurrent clients and provides high-performance caching using `sync.Map`. It has been benchmarked with `memtier_benchmark`, demonstrating **100% cache hit rate** and handling **over 215,000 operations per second**.
